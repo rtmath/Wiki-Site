@@ -1,0 +1,72 @@
+#wikiimg {
+  margin: 10px;
+  padding: 10px;
+  height: 150px;
+  width: 150px;
+}
+
+#newslist {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.articlefloat {
+  position: relative; top;
+  color: red;
+  padding-left: 15px;
+  font-size: 13pt;
+}
+
+#specimg {
+  float: left;
+  padding-right: 15px;
+  margin: 0;
+}
+
+#crazy {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col-md-10 ul {
+  float: right;
+}
+
+#topnav {
+  text-align: right;
+  margin-right: 250px;
+}
+
+#second {
+  float: right;
+}
+
+#oldguy {
+  float: right;
+}
+
+#thaiking {
+  float: right;
+}
+
+#paddington {
+  float: right;
+}
+
+.col-sm-10 .panel-body {
+  background-color: #e5d5e8;
+}
+
+.col-sm-6 .panel-body {
+  background-color: #dfe5de;
+}
+
+.col-sm-4 .panel-body {
+  background-color: #d5e3ef;
+}
+
+.panel-info > .panel-heading-custom {
+background: #cea9cc;
+}
